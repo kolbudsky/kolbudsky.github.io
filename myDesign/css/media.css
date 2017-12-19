@@ -1,0 +1,20 @@
+@media only screen and (max-width: 768px) {
+  section #navbar-main1 ul li {
+    display: block !important; } }
+
+@media only screen and (max-width: 700px) {
+  .sell_descr {
+    font-size: 16px !important; } }
+
+@media only screen and (max-width: 768px) {
+  .button {
+    padding: 5px 10px; } }
+
+@media only screen and (max-width: 350px) {
+  .phoneNumb {
+    font-size: 1em !important; }
+  .sell_descr {
+    font-size: 14px !important; }
+  .button {
+    padding: 2px 7px;
+    font-size: 14px !important; } }
