@@ -4,9 +4,6 @@ $(document).ready(function () {
         nav: true,
         slideSpeed: 1000,
         paginationSpeed: 1000,
-        autoplay: true,
-        loop: true,
-        dotsEach: true
-        
+        autoplay: true        
     });
 });
