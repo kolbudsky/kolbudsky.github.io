@@ -393,3 +393,6 @@ footer .lineFooter {
 #comments-slider { 
         background: #f5f5f5;
 }
+.well {
+    border-bottom: 0
+}
