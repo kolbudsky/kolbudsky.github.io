@@ -4,6 +4,7 @@ $(document).ready(function () {
         nav: true,
         slideSpeed: 1000,
         paginationSpeed: 1000,
-        autoplay: true        
+        autoplay: true,
+        loop: true
     });
 });
