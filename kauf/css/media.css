@@ -1,0 +1,31 @@
+@media only screen and (max-width: 1199px) {
+  .material-switch {
+    padding-left: 23%; }
+  .footer .footer-logo img {
+    padding-left: 75px; }
+  .footer .footer-logo input {
+    margin-left: 30px; } }
+
+@media only screen and (max-width: 991px) {
+  .block-goods {
+    text-align: center; }
+  .footer {
+    height: 245px; }
+    .footer .adress {
+      padding: 25px;
+      text-align: center; }
+    .footer .footer-logo {
+      text-align: center; }
+    .footer .social {
+      display: none; }
+  .block-carousel .block-title {
+    margin-left: 39%; }
+  .material-switch {
+    padding-left: 20%; } }
+
+@media only screen and (max-width: 767px) {
+  .block-goods {
+    text-align: center;
+    padding-bottom: 30px; }
+  .material-switch {
+    padding-left: 10%; } }
