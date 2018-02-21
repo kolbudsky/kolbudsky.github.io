@@ -63,7 +63,7 @@ body {
 
 .video {
   display: inline-block;
-  background-image: url("../img/video.jpg");
+  background-image: url("../img/Video.jpg");
   background-repeat: no-repeat;
   background-position: 50% 350%;
   min-height: 400px;
